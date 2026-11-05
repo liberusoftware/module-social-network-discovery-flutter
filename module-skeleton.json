@@ -1,0 +1,15 @@
+{
+  "repository": "module-social-network-discovery-flutter",
+  "capabilityKey": "liberusoftware/module-social-network-discovery",
+  "presentation": "mobile-flutter",
+  "package": "module_social_network_discovery_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/social-network/nextjs/discovery.md",
+  "presentationPlan": "projects/social-network/flutter/discovery.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "social-network"
+  ]
+}
